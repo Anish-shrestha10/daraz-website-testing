@@ -23,6 +23,7 @@ The purpose of this project was to manually test the core functionalities of the
 ## 🔧 Tools Used
 
 - Microsoft Excel
+- Google sheets
 
 ## 📌 Highlights
 
